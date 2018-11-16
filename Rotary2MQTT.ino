@@ -14,11 +14,11 @@
 #define LONGCLICK       9           
 
 // Wifi Information
-const char* ssid = "Simpkin";
-const char* wifipass = "rainbow1";
+const char* ssid = "***WiFi SSID***";
+const char* wifipass = "***WiFi Password***";
 
 // MQTT Information
-const char* mqttserver = "192.168.0.28";
+const char* mqttserver = "***MQTT Server IP***";
 const int mqttport = 1883;
 const char* mqttuser = "mqtthass";
 const char* mqttpass = "mqttpass";
